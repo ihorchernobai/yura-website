@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "EuclidCircularBBold";
+    src:
+        url("/fonts/EuclidCircularBBold.ttf") format('truetype') 
+        url("/fonts/EuclidCircularB-Bold.woff2") format("woff2"),
+        url("/fonts/EuclidCircularB-Bold.woff") format("woff");
+  }
